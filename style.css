@@ -1,0 +1,19 @@
+.container {
+    width: 60%;
+    margin: 100px auto;
+}
+
+.input {
+    font-size: 25px;
+    width: 80%;
+}
+
+.suggestions {
+    font-size: 22px;
+    width: 60%;
+}
+
+.suggestions:hover {
+    background-color: cornflowerblue;
+    color: #fff;
+}
